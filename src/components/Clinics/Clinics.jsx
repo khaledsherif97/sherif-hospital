@@ -219,7 +219,7 @@ const Clinics = () => {
      ></DataTable>
      
      <div className='w-100 mx-auto'>
-  <Link className="btn btn-primary rounded-pill my-3 py-3 px-3 " to={'/appointment'}><i className="fa-solid fa-calendar-days pe-2"></i> Book your appointment now</Link>
+  <Link className="btn btn-primary rounded-pill my-3 py-3 px-3 " to={'appointment'}><i className="fa-solid fa-calendar-days pe-2"></i> Book your appointment now</Link>
   </div>
   </div>
   
