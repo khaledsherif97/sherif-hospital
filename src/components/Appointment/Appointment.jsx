@@ -13,7 +13,7 @@ const Appointment = () => {
    localStorage.setItem('clinic',values.clinic)
    localStorage.setItem('day',values.day)
    localStorage.setItem('shift',values.shift)
-   navigate("reserve")
+   navigate("/reserve")
  }
  const validationSchema = Yup.object({
    name: Yup.string().min(3, 'Too Short!').max(20, 'Too Long!').required('Required'),
