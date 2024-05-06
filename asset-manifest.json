@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sherif-hospital/static/css/main.2c86fad9.css",
-    "main.js": "/sherif-hospital/static/js/main.ba429b82.js",
+    "main.js": "/sherif-hospital/static/js/main.99131344.js",
     "static/js/453.97b097a1.chunk.js": "/sherif-hospital/static/js/453.97b097a1.chunk.js",
     "static/media/Gemini_Generated_Image.jpg": "/sherif-hospital/static/media/Gemini_Generated_Image.2d66f2dc9e72cb81192b.jpg",
     "static/media/fa-solid-900.ttf": "/sherif-hospital/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
@@ -27,11 +27,11 @@
     "static/media/slick.woff": "/sherif-hospital/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/sherif-hospital/index.html",
     "main.2c86fad9.css.map": "/sherif-hospital/static/css/main.2c86fad9.css.map",
-    "main.ba429b82.js.map": "/sherif-hospital/static/js/main.ba429b82.js.map",
+    "main.99131344.js.map": "/sherif-hospital/static/js/main.99131344.js.map",
     "453.97b097a1.chunk.js.map": "/sherif-hospital/static/js/453.97b097a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c86fad9.css",
-    "static/js/main.ba429b82.js"
+    "static/js/main.99131344.js"
   ]
 }
