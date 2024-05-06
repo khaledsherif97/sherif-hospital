@@ -25,7 +25,7 @@ function App() {
       {path:"radiology",element:<Radiology />},
       {path:"result",element:<Results />},
       {path:"contact",element:<Contact />},
-      {path:"appointment",element:<Appointment />},
+      {path:"sherif-hospital/appointment",element:<Appointment />},
       {path:"reserve",element:<Reserve />},
      
       
